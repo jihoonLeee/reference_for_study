@@ -8,3 +8,5 @@
 
 ## Database
 
+## 보안
+- SSO란?  [https://gruuuuu.github.io/security/ssofriends/]
