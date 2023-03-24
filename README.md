@@ -1,4 +1,4 @@
-# reference_for_study
+# 내가 궁금한 내용 참조 사이트 정리
 
 
 ## Java
@@ -13,3 +13,6 @@
 
 ## 보안
 - SSO란?  [https://gruuuuu.github.io/security/ssofriends/]
+
+## Linux
+- https://koromoon.blogspot.com/2020/02/sudo.html.   sudo명령어 
