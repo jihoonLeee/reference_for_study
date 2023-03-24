@@ -15,4 +15,4 @@
 - SSO란?  [https://gruuuuu.github.io/security/ssofriends/]
 
 ## Linux
-- https://koromoon.blogspot.com/2020/02/sudo.html.   sudo명령어 
+- sudo명령어   https://koromoon.blogspot.com/2020/02/sudo.html. 
