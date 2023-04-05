@@ -16,3 +16,6 @@
 
 ## Linux
 - sudo명령어   https://koromoon.blogspot.com/2020/02/sudo.html. 
+
+## Javascript
+- [ES6] var,let,const    [https://www.freecodecamp.org/korean/news/var-let-constyi-caijeomeun/]
