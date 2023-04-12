@@ -2,7 +2,7 @@
 
 
 ## Java
-
+ - 구글 코드 컨벤션 ..!  [https://google.github.io/styleguide/javaguide.html#s1.1-terminology]
 ## Spring
  - spring 2.4.2 릴리즈 노트(현재 실무에서 사용중인 버전)번역본  [https://luvstudy.tistory.com/129]
  - spring 스케쥴러 cron 사용법 [https://wooncloud.tistory.com/75]  
